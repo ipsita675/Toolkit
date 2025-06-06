@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
-:root {   
-  --background: #1a0a28; 
-  --foreground: #f2e8f9;             
+:root {
+  --background: #1a0a28;
+  --foreground: white;
   --button-bg: #f9b3e2;
   --button-hover-bg: #eea1d7;
   --button-text: #4a235a;
@@ -36,8 +36,8 @@ button:focus {
   background-color: var(--button-hover-bg);
   border: 1px solid white;
   outline: none;
-  box-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 
-              0 0 20px rgba(255, 192, 203, 0.6);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.8),
+    0 0 20px rgba(255, 192, 203, 0.6);
   transition: box-shadow 0.3s ease;
 }
 
@@ -64,7 +64,7 @@ li {
   margin: 0.5rem 0;
   padding: 0.7rem 1rem;
   border-radius: var(--border-radius);
-  color: var(--foreground);
+  color: #4a235a;
   display: flex;
   justify-content: space-between;
   align-items: center;

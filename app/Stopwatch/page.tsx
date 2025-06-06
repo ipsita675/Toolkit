@@ -60,7 +60,7 @@ export default function StopwatchPage() {
           <ul className="p-0">
             {laps.map(({min,sec},index)=>(
               <li key={index}>
-                Lap {index+1}:{formatTime(min)}:{formatTime(sec)}
+                Lap-{index+1}:  {formatTime(min)}:{formatTime(sec)}
               </li>
             ))}
           </ul>
