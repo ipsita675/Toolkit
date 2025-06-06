@@ -13,4 +13,4 @@ Your all-in-one web-based study companion — packed with a minimal **Stopwatch*
 ---
 ## 🚀 Live Demo
 View it live on Vercel </br>
-https://toolkit-heze4ixp7-ipsita675s-projects.vercel.app/  
+https://toolkit-git-main-ipsita675s-projects.vercel.app?_vercel_share=pV91Q5HP8iMwahPVHy0wru9FhV41uOC4
