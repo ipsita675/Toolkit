@@ -1,5 +1,6 @@
 
 # Study Toolkit
+
 Your all-in-one web-based study companion — packed with a minimal **Stopwatch** and a clean **To-Do List**, built with ⚡️ Next.js + Tailwind CSS.
 ---
 ## ✨ Features
