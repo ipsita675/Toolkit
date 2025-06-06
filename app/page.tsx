@@ -2,7 +2,6 @@
 import { useRouter } from 'next/navigation';
 
 export default function HomePage() {
-  const router=useRouter();
 
   const openInNewTab=(path:string)=>{
     window.open(path,'_blank','noopener,noreferrer');
